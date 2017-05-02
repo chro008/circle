@@ -1,0 +1,12 @@
+.sz-circle-cover {
+    border: 2px solid #19ac9c;
+    background-color: rgba(25, 172, 158, 0.5);
+    z-index: 100000;
+    position: absolute;
+}
+.sz-circle-define {
+	border: 2px solid #EF475C;
+	background-color: rgba(239, 71, 92, 0.17);
+    z-index: 100000;
+    position: absolute;
+}
